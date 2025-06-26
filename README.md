@@ -51,8 +51,8 @@ O sistema é dividido em funções que cuidam de cada parte do processo:
 
 ## 🙋 Autor
 
-Desenvolvido por **Robson Kauã Rodrigues Magalhães**  
-Projeto apresentado como trabalho final de Programação em C – 2025
+Desenvolvido por **Robson Kauã Rodrigues Magalhães e Matheus Damascena**  
+Projeto apresentado como trabalho final de Programação em C – 2023
 
 ---
 
